@@ -26,4 +26,10 @@ Recreated HTop / GKrellM in C++ with the SFML lib and ncurses in 24 hours
 
 ---
 
+#### :camera: Screenshots :
+<img width="300" alt="screenshots" src="https://github.com/ArthurBoucard/HTop/blob/master/pictures/graphicHTop.png?raw=true">
+<img width="1000" alt="menu" src="https://github.com/ArthurBoucard/HTop/blob/master/pictures/terminalHTOP.png?raw=true"> 
+
+---
+
 Made in C++
